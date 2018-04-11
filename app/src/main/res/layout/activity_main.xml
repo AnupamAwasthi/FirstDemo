@@ -9,5 +9,6 @@
 <Button
     android:layout_width="wrap_content"
     android:layout_height="wrap_content"
-    android:text="Hello"/>
+    android:text="Hello"
+    android:id="@+id/btn_hello"/>
 </android.support.constraint.ConstraintLayout>
